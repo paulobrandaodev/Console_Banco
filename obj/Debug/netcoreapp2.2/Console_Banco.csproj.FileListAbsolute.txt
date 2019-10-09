@@ -1,0 +1,11 @@
+C:\Users\Constantine\Desktop\Console_Banco\bin\Debug\netcoreapp2.2\Console_Banco.deps.json
+C:\Users\Constantine\Desktop\Console_Banco\bin\Debug\netcoreapp2.2\Console_Banco.runtimeconfig.json
+C:\Users\Constantine\Desktop\Console_Banco\bin\Debug\netcoreapp2.2\Console_Banco.runtimeconfig.dev.json
+C:\Users\Constantine\Desktop\Console_Banco\bin\Debug\netcoreapp2.2\Console_Banco.dll
+C:\Users\Constantine\Desktop\Console_Banco\bin\Debug\netcoreapp2.2\Console_Banco.pdb
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.csprojAssemblyReference.cache
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.AssemblyInfoInputs.cache
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.AssemblyInfo.cs
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.dll
+C:\Users\Constantine\Desktop\Console_Banco\obj\Debug\netcoreapp2.2\Console_Banco.pdb
